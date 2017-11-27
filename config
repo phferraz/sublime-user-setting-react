@@ -1,0 +1,25 @@
+
+lor_scheme": "Packages/User/SublimeLinter/Monokai Phoenix (SL).tmTheme",
+  "ensure_newline_at_eof_on_save": true,
+  "folder_exclude_patterns":
+  [
+    ".svn",
+    ".git",
+    "CVS",
+    "node_modules"
+  ],
+  "font_size": 12,
+  "ignored_packages":
+  [
+  ],
+  "rulers":
+  [
+    80
+  ],
+  "tab_size": 2,
+  "tabs_small": true,
+  "theme": "Afterglow-blue.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true
+}
+
